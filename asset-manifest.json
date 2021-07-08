@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ThumbnailMaker/static/css/main.8347f86f.chunk.css",
+    "main.js": "/ThumbnailMaker/static/js/main.f5bd250c.chunk.js",
+    "main.js.map": "/ThumbnailMaker/static/js/main.f5bd250c.chunk.js.map",
+    "runtime-main.js": "/ThumbnailMaker/static/js/runtime-main.76b135b2.js",
+    "runtime-main.js.map": "/ThumbnailMaker/static/js/runtime-main.76b135b2.js.map",
+    "static/js/2.22969388.chunk.js": "/ThumbnailMaker/static/js/2.22969388.chunk.js",
+    "static/js/2.22969388.chunk.js.map": "/ThumbnailMaker/static/js/2.22969388.chunk.js.map",
+    "static/js/3.df847fc5.chunk.js": "/ThumbnailMaker/static/js/3.df847fc5.chunk.js",
+    "static/js/3.df847fc5.chunk.js.map": "/ThumbnailMaker/static/js/3.df847fc5.chunk.js.map",
+    "index.html": "/ThumbnailMaker/index.html",
+    "static/css/main.8347f86f.chunk.css.map": "/ThumbnailMaker/static/css/main.8347f86f.chunk.css.map",
+    "static/js/2.22969388.chunk.js.LICENSE.txt": "/ThumbnailMaker/static/js/2.22969388.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76b135b2.js",
+    "static/js/2.22969388.chunk.js",
+    "static/css/main.8347f86f.chunk.css",
+    "static/js/main.f5bd250c.chunk.js"
+  ]
+}
